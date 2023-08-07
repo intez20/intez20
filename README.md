@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Syed Intezar Hussain
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 I’m interested in Software Development and Data Engineering
+- 🌱 I’m currently learning Java
 
 <!---
 intez20/intez20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

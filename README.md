@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syed Intezar Hussain
-- 👀 I’m interested in Software Development and Data Engineering
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in AI and Data Engineering
+- 🌱 I’m currently learning GenAI
 
 <!---
 intez20/intez20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
